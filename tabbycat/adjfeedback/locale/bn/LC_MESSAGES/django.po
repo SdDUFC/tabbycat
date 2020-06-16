@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-06-11 19:35\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2020-06-16 10:07\n"
+"Last-Translator: \n"
 "Language-Team: Bengali\n"
 "Language: bn_BD\n"
 "MIME-Version: 1.0\n"
@@ -12,8 +12,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: tabbycat\n"
+"X-Crowdin-Project-ID: 364715\n"
 "X-Crowdin-Language: bn\n"
 "X-Crowdin-File: /develop/tabbycat/adjfeedback/locale/en/LC_MESSAGES/django.po\n"
+"X-Crowdin-File-ID: 924\n"
 
 #: adjfeedback/admin.py:43
 msgid "Integer scales must have a minimum and maximum"
@@ -85,7 +87,7 @@ msgstr "স্পিকার"
 
 #: adjfeedback/forms.py:26
 msgid "solo"
-msgstr ""
+msgstr "একক"
 
 #: adjfeedback/forms.py:27
 msgid "panellist"
@@ -113,26 +115,26 @@ msgstr ""
 #: adjfeedback/forms.py:173
 #, python-format
 msgid "Overall score (%(min)d=worst; %(max)d=best)*"
-msgstr ""
+msgstr "সর্বোপরি স্কোর (%(min)d=worst;%(max)d=best)*"
 
 #: adjfeedback/forms.py:185
 msgid "Ignored"
-msgstr ""
+msgstr "উপেক্ষিত"
 
 #. Translators: e.g. "Megan Pearson (chair)", with adjpos="chair"
 #: adjfeedback/forms.py:244 adjfeedback/forms.py:307
 msgid "Submitted - "
-msgstr ""
+msgstr "উপস্থাপিত - "
 
 #. Translators: e.g. "Megan Pearson (panellist)", with round="Round 3", adjpos="panellist"
 #: adjfeedback/forms.py:245 adjfeedback/forms.py:312
 #, python-format
 msgid "%(name)s (%(adjpos)s)"
-msgstr ""
+msgstr "%(name)sসমূহ (%(adjpos)s)"
 
 #: adjfeedback/forms.py:268 adjfeedback/forms.py:342
 msgid "-- Adjudicators --"
-msgstr ""
+msgstr "বিচারক মন্ডলী"
 
 #: adjfeedback/forms.py:285
 msgid "Adjudicator this feedback is about"
