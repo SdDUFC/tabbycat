@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-06-16 10:48\n"
+"PO-Revision-Date: 2020-06-16 10:57\n"
 "Last-Translator: \n"
 "Language-Team: Bengali\n"
 "Language: bn_BD\n"
@@ -168,12 +168,12 @@ msgstr "এই লাইনটি (জন্য %(adjudicator)s) অনেক �
 #: adjfeedback/forms.py:426
 #, python-format
 msgid "There are several adjudicators called \"%(adjudicator)s\", so you can't use the bulk importer to update their score. Please do so in the Feedback Overview page instead."
-msgstr ""
+msgstr "বিভিন্ন বিচারক মন্ডলী রয়েছে \"%(adjudicator)s\" নামক, সুতরাং আপনি তাদের ফলাফল হালনাগাদ এর ক্ষেত্রে স্তূপ আমদানিকারক ব্যবহার করতে পারবেন না. অনুগ্রহ করে প্রতিক্রিয়ার ক্ষেত্রে ইহাই করুন পরিদর্শন/ ওভারভিউ পেজের পরিবর্তে."
 
 #: adjfeedback/forms.py:432
 #, python-format
 msgid "There is no adjudicator in this tournament with the name \"%(adjudicator)s\""
-msgstr ""
+msgstr "এই প্রতিযোগিতায় কোন বিচারক নেই \"%(adjudicator)s\" নামের সাথে"
 
 #: adjfeedback/forms.py:440
 #, python-format
