@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-06-16 11:22\n"
+"PO-Revision-Date: 2020-06-16 11:36\n"
 "Last-Translator: \n"
 "Language-Team: Bengali\n"
 "Language: bn_BD\n"
@@ -295,7 +295,7 @@ msgstr "প্রতিযোগিতা"
 
 #: adjfeedback/models.py:125
 msgid "sequence number"
-msgstr "কর্ম সংখ্যা"
+msgstr "ক্রম সংখ্যা"
 
 #: adjfeedback/models.py:128
 msgid "The question displayed to participants, e.g., \"Did you agree with the decision?\""
