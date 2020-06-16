@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-06-16 11:06\n"
+"PO-Revision-Date: 2020-06-16 11:22\n"
 "Last-Translator: \n"
 "Language-Team: Bengali\n"
 "Language: bn_BD\n"
@@ -231,63 +231,63 @@ msgstr "বিচারক প্রতিক্রিয়া বুলিয�
 
 #: adjfeedback/models.py:53
 msgid "adjudicator feedback integer answer"
-msgstr ""
+msgstr "বিচারক প্রতিক্রিয়া পূর্ণসংখ্যক উত্তর"
 
 #: adjfeedback/models.py:54
 msgid "adjudicator feedback integer answers"
-msgstr ""
+msgstr "বিচারক প্রতিক্রিয়া পূর্ণসংখ্যক উত্তর সমূহ"
 
 #: adjfeedback/models.py:61
 msgid "adjudicator feedback float answer"
-msgstr ""
+msgstr "বিচারক প্রতিক্রিয়া ভাসমান উত্তর"
 
 #: adjfeedback/models.py:62
 msgid "adjudicator feedback float answers"
-msgstr ""
+msgstr "বিচারক প্রতিক্রিয়া ভাসমান উত্তর সমূহ"
 
 #: adjfeedback/models.py:69
 msgid "adjudicator feedback string answer"
-msgstr ""
+msgstr "বিচারক প্রতিক্রিয়া স্ট্রিং উত্তর"
 
 #: adjfeedback/models.py:70
 msgid "adjudicator feedback string answers"
-msgstr ""
+msgstr "বিচারক প্রতিক্রিয়া স্ট্রিং উত্তর সমূহ"
 
 #: adjfeedback/models.py:89
 msgid "checkbox"
-msgstr ""
+msgstr "চেকবক্স"
 
 #: adjfeedback/models.py:90
 msgid "yes/no (dropdown)"
-msgstr ""
+msgstr "হ্যাঁ/না (নামানো)"
 
 #: adjfeedback/models.py:91
 msgid "integer (textbox)"
-msgstr ""
+msgstr "পূর্ণসংখ্যা (টেক্সট বক্স)"
 
 #: adjfeedback/models.py:92
 msgid "integer scale"
-msgstr ""
+msgstr "পূর্ণসংখ্যা মাত্রা"
 
 #: adjfeedback/models.py:93
 msgid "float"
-msgstr ""
+msgstr "ডুবন্ত/ ভাসা"
 
 #: adjfeedback/models.py:94 adjfeedback/models.py:127
 msgid "text"
-msgstr ""
+msgstr "মূলপাঠ/পাঠ্য"
 
 #: adjfeedback/models.py:95
 msgid "long text"
-msgstr ""
+msgstr "দীর্ঘ পাঠ্য"
 
 #: adjfeedback/models.py:96
 msgid "select one"
-msgstr ""
+msgstr "একটি বাছাই করুন"
 
 #: adjfeedback/models.py:97
 msgid "select multiple"
-msgstr ""
+msgstr "বহু বাছাই করুন"
 
 #: adjfeedback/models.py:123
 msgid "tournament"
@@ -295,7 +295,7 @@ msgstr "প্রতিযোগিতা"
 
 #: adjfeedback/models.py:125
 msgid "sequence number"
-msgstr ""
+msgstr "কর্ম সংখ্যা"
 
 #: adjfeedback/models.py:128
 msgid "The question displayed to participants, e.g., \"Did you agree with the decision?\""
