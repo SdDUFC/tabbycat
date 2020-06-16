@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-06-16 10:57\n"
+"PO-Revision-Date: 2020-06-16 11:06\n"
 "Last-Translator: \n"
 "Language-Team: Bengali\n"
 "Language: bn_BD\n"
@@ -178,11 +178,11 @@ msgstr "এই প্রতিযোগিতায় কোন বিচার
 #: adjfeedback/forms.py:440
 #, python-format
 msgid "The score for %(adjudicator)s, \"%(score)s\", isn't a number"
-msgstr ""
+msgstr "ফলাফলের জন্য %(adjudicator)s, \"%(score)s\", কোন সংখ্যা নয়"
 
 #: adjfeedback/forms.py:455
 msgid "There were no scores to import."
-msgstr ""
+msgstr "আমদানির জন্য কোন ফলাফল ছিল না."
 
 #: adjfeedback/models.py:12 adjfeedback/models.py:215
 msgid "adjudicator"
@@ -194,7 +194,7 @@ msgstr "পর্ব"
 
 #: adjfeedback/models.py:16 adjfeedback/models.py:216
 msgid "score"
-msgstr ""
+msgstr "স্কোর/ফলাফল"
 
 #: adjfeedback/models.py:17
 msgid "timestamp"
@@ -202,15 +202,15 @@ msgstr "টাইমস্ট্যাম্প"
 
 #: adjfeedback/models.py:20
 msgid "adjudicator base score history"
-msgstr ""
+msgstr "বিচারক ভিত্তিক ফলাফল ইতিবৃত্ত"
 
 #: adjfeedback/models.py:21
 msgid "adjudicator base score histories"
-msgstr ""
+msgstr "বিচারক ভিত্তিক ফলাফল ইতিবৃত্ত সমূহ"
 
 #: adjfeedback/models.py:29
 msgid "question"
-msgstr ""
+msgstr "প্রশ্ন"
 
 #: adjfeedback/models.py:31
 msgid "feedback"
@@ -219,15 +219,15 @@ msgstr "প্রতিক্রিয়া"
 #: adjfeedback/models.py:42 adjfeedback/models.py:50 adjfeedback/models.py:58
 #: adjfeedback/models.py:66
 msgid "answer"
-msgstr ""
+msgstr "উত্তর"
 
 #: adjfeedback/models.py:45
 msgid "adjudicator feedback boolean answer"
-msgstr ""
+msgstr "বিচারক প্রতিক্রিয়া বুলিয়ান উত্তর"
 
 #: adjfeedback/models.py:46
 msgid "adjudicator feedback boolean answers"
-msgstr ""
+msgstr "বিচারক প্রতিক্রিয়া বুলিয়ান উত্তর সমূহ"
 
 #: adjfeedback/models.py:53
 msgid "adjudicator feedback integer answer"
